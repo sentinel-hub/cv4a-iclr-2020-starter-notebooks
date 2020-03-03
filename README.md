@@ -6,7 +6,7 @@ Repository containing notebooks to get started on the [CV4A challenge at ICLR 20
 
 The [`cv4a-crop-challenge-to-eolearn`](./cv4a-process-and-train.ipynb) notebook converts the data provided as `.tiff` files into smaller `EOPatch` format files. This allows to better handle and visualise data as rasters, and to easily apply processing pipelines. 
 
-The [`cv4a-process-and-train`](./cv4a-process-and-train.ipynb) notebook shows how to set up a processing pipeline on `EOPatch` objects, such as cloud masking and feature interpolation. This way, different pre-processing methods can be quicly tested.
+The [`cv4a-process-and-train`](./cv4a-process-and-train.ipynb) notebook shows how to set up a processing pipeline on `EOPatch` objects, such as cloud masking and feature interpolation. This way, different pre-processing methods can be quickly tested.
 
 The pipeline shown in the notebook includes:
 
